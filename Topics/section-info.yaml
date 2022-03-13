@@ -5,3 +5,16 @@ content:
 - Processing strings
 - While loops
 - Jumps and returns
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Standard output
+- The try-catch statement
+- The try-catch-finally statement
+- Scopes
+- Inheritance
+- toString()
+- Data class

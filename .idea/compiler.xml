@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="17">
-      <module name="Parking_Lot.Parking_Lot-task-build-classes-java.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-classes-kotlin.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-reports-tests.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-test-results.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task-build-tmp.main" target="11" />
-      <module name="Parking_Lot.Parking_Lot-task.main" target="11" />
-      <module name="Parking_Lot.Topics-For_loop_and_lists-Count_occurrences.main" target="11" />
-      <module name="Parking_Lot.Topics-For_loop_and_lists-Number_in_a_set.main" target="11" />
-      <module name="Parking_Lot.Topics-For_loop_and_lists-Right_Rotation.main" target="11" />
-      <module name="Parking_Lot.Topics-For_loop_and_lists-Theory.main" target="11" />
-      <module name="Parking_Lot.Topics-Getting_substrings-Case_insensitive.main" target="11" />
-      <module name="Parking_Lot.Topics-Getting_substrings-Theory.main" target="11" />
-      <module name="Parking_Lot.Topics-Jumps_and_returns-Theory.main" target="11" />
-      <module name="Parking_Lot.Topics-Jumps_and_returns-Unique_characters.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Board_game_basics__Game.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Cell.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Library.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Manager.main" target="11" />
-      <module name="Parking_Lot.Topics-Object_declarations-Theory.main" target="11" />
-      <module name="Parking_Lot.Topics-Processing_strings-Convert_a_date.main" target="11" />
-      <module name="Parking_Lot.Topics-Processing_strings-Double_characters.main" target="11" />
-      <module name="Parking_Lot.Topics-Processing_strings-Palindrome.main" target="11" />
-      <module name="Parking_Lot.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
-      <module name="Parking_Lot.Topics-Processing_strings-Theory.main" target="11" />
-      <module name="Parking_Lot.Topics-While_loops-Collatz_conjecture.main" target="11" />
-      <module name="Parking_Lot.Topics-While_loops-The_largest_element.main" target="11" />
-      <module name="Parking_Lot.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
-      <module name="Parking_Lot.Topics-While_loops-The_sum_of_elements.main" target="11" />
-      <module name="Parking_Lot.Topics-While_loops-Theory.main" target="11" />
-      <module name="Parking_Lot.util.main" target="11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>

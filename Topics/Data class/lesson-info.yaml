@@ -1,0 +1,8 @@
+content:
+- Theory
+- Generated functions
+- Allowance for functions
+- Allowance for constructors
+- equals() check
+- toString() modification
+- copy() usage
